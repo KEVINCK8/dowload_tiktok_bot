@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    background-image: url(/sfondo.jpg);
+}
+
+.head{
+    height: 200px;
+    width: 1900px;
+    position: relative;
+    left: 420px;
+}
+
+/* bottone dowload */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    position: static;
+    
+}
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+.btn{
+    position: relative;
+    left: 900px;
+    top: 200px;
+    height: 120px;
+    width: 250px;
+}
+
